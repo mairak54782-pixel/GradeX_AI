@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Vector database (never commit indexed teacher materials)
+gradex_db/
+
+# IDE / OS
+.vscode/
+.DS_Store
