@@ -11,7 +11,7 @@ Built with **Gemini** (embeddings + generation), **ChromaDB** (vector search), a
 
 ## Screenshots
 
-![GradEx AI - Upload tab](screenshots/gradex1.png)
+![GradEx AI - Upload tab](screenshots/image1.png)
 
 ![GradEx AI - Pattern Analysis](screenshots/gradex2.png)
 
