@@ -61,17 +61,9 @@ gradex-ai/
    ```
    Open the local URL it prints (usually `http://127.0.0.1:7860`).
 
-## Run tests
-
-```bash
-pip install pytest
-pytest -v
 ```
 
 ## Tech stack
 
 Gemini API · ChromaDB · Gradio · pypdf · python-pptx · python-docx
 
-## License
-
-MIT — see [LICENSE](LICENSE).
